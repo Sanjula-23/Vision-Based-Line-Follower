@@ -1,0 +1,5 @@
+# Required dependencies for the Vision-Based Line Follower
+# Install using: pip install -r requirements.txt
+
+opencv-python==4.7.0.72  # OpenCV for image processing
+numpy==1.24.3  # NumPy for matrix operations
